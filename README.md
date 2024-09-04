@@ -2,4 +2,4 @@
 - Age: 2024
 - Country: Vi-en
 - Learn code: Python & no more
-- How are my<("): Fine
+- How is my<("): Fine
